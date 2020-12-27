@@ -17,7 +17,6 @@ int main(){
 			for(int k=i;k<=j;k++){
 				sum+=a[k];
 			}
-//			printf("%d-%d %lf/%d==%lf\n",i,j,sum,(j-i+1),sum/(j-i+1));
 			bool flag=false;
 			for(int k=i;k<=j;k++){
 				if(a[k]==sum/(j-i+1)){
