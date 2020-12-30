@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-TASK: transform
-LANG: C++                 
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -229,8 +224,6 @@ void check(){
 
 
 int main(){
-	freopen("transformx.in","r",stdin);
-	freopen("transform.out","w",stdout);
 	scanf("%d",&n);
 	for(int i=0;i<n;i++){
 		scanf("%s",a[i]);
