@@ -2,7 +2,7 @@
 
 Our first contest of the 2020 season has recently concluded. Results are available [here](http://www.usaco.org/index.php?page=dec20results).
 
-### IOI 2020: 1st Place for Third Year in a Row!
+## IOI 2020: 1st Place for Third Year in a Row!
 
 Congratulations to Walden Yan (gold medal), Danny Mittal (silver medal), Xinyang (Alan) Chen (gold medal), and William Lin (gold medal, 1st place individual winner), who 
 
@@ -25,15 +25,19 @@ The opportunity for the top four students in the USA to represent their country 
 algorithmic programming competition at the high-school level.
 
 ## Finalists for 2019-2020 Season Announced
+
 The USACO is pleased to announce its finalists for the 2019-2020 season.
 
 ## First Place at IOI 2019!
 
-Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From left to right: **Eric Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), **Daniel Zhang** 
+Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From left to right: **Eric Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), 
+
+**Daniel Zhang** 
 
 (gold), and and William Lin (silver).
  
 # First Place at IOI 2018!
-Congratulations to the USA IOI team for a superb showing at the 2018 International Olympiad in Informatics in Tsukuba, Japan! From left to right: **Spencer Compton** (gold), **Eric 
 
-Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), and William Hu (bronze).
+Congratulations to the USA IOI team for a superb showing at the 2018 International Olympiad in Informatics in Tsukuba, Japan! From left to right: **Spencer Compton** (gold), 
+
+**Eric Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), and William Hu (bronze).
