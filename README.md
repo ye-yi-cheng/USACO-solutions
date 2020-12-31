@@ -12,14 +12,13 @@ The opportunity for the top four students in the USA to represent their country 
 Finalists for 2019-2020 Season Announced
 The USACO is pleased to announce its finalists for the 2019-2020 season.
 
-
 First Place at IOI 2019!
  Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From left to right: Eric Zhang (gold), Benjamin Qi (gold, 1st place individual winner), Daniel Zhang (gold), and and William Lin (silver).
  
 First Place at IOI 2018!
  Congratulations to the USA IOI team for a superb showing at the 2018 International Olympiad in Informatics in Tsukuba, Japan! From left to right: Spencer Compton (gold), Eric Zhang (gold), Benjamin Qi (gold, 1st place individual winner), and William Hu (bronze).
-Training Pages Now Support Python
-For those who prefer coding in Python, our training pages now support submission of programs written in Python 2.7 or Python 3.6.
-
-Jump Trading   
-Clemson University
+ >
+ >>
+ >>>
+ >>>>
+ >>>>>
