@@ -1,3 +1,4 @@
+```
 December 2020 Contest
 Our first contest of the 2020 season has recently concluded. Results are available here.
 IOI 2020: 1st Place for Third Year in a Row!
@@ -17,8 +18,9 @@ First Place at IOI 2019!
  
 First Place at IOI 2018!
  Congratulations to the USA IOI team for a superb showing at the 2018 International Olympiad in Informatics in Tsukuba, Japan! From left to right: Spencer Compton (gold), Eric Zhang (gold), Benjamin Qi (gold, 1st place individual winner), and William Hu (bronze).
- >
- >>
- >>>
- >>>>
- >>>>>
+ ```
+ >1
+ >>2
+ >>>3
+ >>>>4
+ >>>>>5
