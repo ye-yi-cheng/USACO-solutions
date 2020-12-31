@@ -1,4 +1,3 @@
-```
 December 2020 Contest
 Our first contest of the 2020 season has recently concluded. Results are available here.
 IOI 2020: 1st Place for Third Year in a Row!
@@ -13,6 +12,7 @@ The opportunity for the top four students in the USA to represent their country 
 Finalists for 2019-2020 Season Announced
 The USACO is pleased to announce its finalists for the 2019-2020 season.
 
+
 First Place at IOI 2019!
  Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From left to right: Eric Zhang (gold), Benjamin Qi (gold, 1st place individual winner), Daniel Zhang (gold), and and William Lin (silver).
  
@@ -23,4 +23,3 @@ For those who prefer coding in Python, our training pages now support submission
 
 Jump Trading   
 Clemson University
-```
