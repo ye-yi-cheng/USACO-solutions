@@ -1,6 +1,6 @@
 ## December 2020 Contest
 
-Our first contest of the 2020 season has recently concluded. Results are available [http://www.usaco.org/index.php?page=dec20results](here).
+Our first contest of the 2020 season has recently concluded. Results are available [here](http://www.usaco.org/index.php?page=dec20results).
 
 ### IOI 2020: 1st Place for Third Year in a Row!
 
