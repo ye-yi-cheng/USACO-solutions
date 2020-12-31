@@ -40,4 +40,4 @@ Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From
 
 Congratulations to the USA IOI team for a superb showing at the 2018 International Olympiad in Informatics in Tsukuba, Japan! From left to right: **Spencer Compton** (gold), 
 
-**Eric Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), and William Hu (bronze).
+**Eric Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), and **William Hu** (bronze).
