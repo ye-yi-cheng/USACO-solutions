@@ -36,7 +36,7 @@ Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From
 
 (gold), and and William Lin (silver).
  
-# First Place at IOI 2018!
+## First Place at IOI 2018!
 
 Congratulations to the USA IOI team for a superb showing at the 2018 International Olympiad in Informatics in Tsukuba, Japan! From left to right: **Spencer Compton** (gold), 
 
