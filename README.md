@@ -64,6 +64,8 @@ The 2020 December Contest contest featured algorithmic programming problems cove
 1 MMR    1 LKA    1 IRL    1 HUN    1 CMR    1 BRN    1 BIH
    
 1 BHR    1 ATA    1 ARE
+## Total Graded Submissions Languages
+
 In total, there were 27387 graded submissions, broken down by language as follows:
 
  9131 C++11
