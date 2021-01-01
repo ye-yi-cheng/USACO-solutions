@@ -31,10 +31,7 @@ The USACO is pleased to announce its finalists for the 2019-2020 season.
 ## First Place at IOI 2019!
 
 Congratulations to the USA team attending the 2019 IOI in Baku, Azerbaijan. From left to right: **Eric Zhang** (gold), **Benjamin Qi** (gold, 1st place individual winner), 
-
-**Daniel Zhang** 
-
-(gold), and and **William Lin** (silver).
+**Daniel Zhang** (gold), and and **William Lin** (silver).
  
 ## First Place at IOI 2018!
 
