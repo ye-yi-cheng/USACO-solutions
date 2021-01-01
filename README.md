@@ -42,22 +42,40 @@ Congratulations to the USA IOI team for a superb showing at the 2018 Internation
 The 2020 December Contest contest featured algorithmic programming problems covering a wide range of techniques and levels of difficulty. A total of 10752 distinct users logged into the contest during its 4-day span. A total of 9508 participants submitted at least one solution, hailing from 80 different countries:
 
  **5297 USA** **2412 CHN**  362 CAN  291 KOR  131 IND   96 VNM   93 ROU
+ 
    85 MYS   61 GEO   42 POL   38 TWN   37 SGP   33 FRA   32 RUS
+   
    31 IRN   28 BLR   25 BGD   25 AUS   22 MEX   22 HKG   21 GBR
+   
    19 ARM   18 UKR   18 KAZ   16 SLV   16 JPN   15 TUR   15 MNG
+   
    15 DEU   12 ITA   10 IDN    9 AZE    8 HRV    8 GRC    7 SAU
+   
     7 EST    7 COL    7 BGR    6 TJK    6 THA    6 NGA    6 CUB
+    
     6 BRA    5 TKM    5 ESP    4 VEN    4 PHL    4 NZL    4 MDA
+    
     4 LTU    4 KGZ    4 ISR    4 EGY    3 SRB    3 NLD    3 CHE
+    
     3 BHS    3 BEL    2 TUN    2 SYR    2 SVN    2 SVK    2 PRK
+    
     2 LUX    2 FIN    2 ARG    1 ZAF    1 SOM    1 SJM    1 PRT
+    
     1 MMR    1 LKA    1 IRL    1 HUN    1 CMR    1 BRN    1 BIH
+    
     1 BHR    1 ATA    1 ARE
 In total, there were 27387 graded submissions, broken down by language as follows:
+
  9131 C++11
+ 
  7703 Java
+ 
  5841 C++
+ 
  4452 Python 3.4.0
-  132 Python 2.7.6
-  120 C
-    8 Pascal
+ 
+ 132 Python 2.7.6
+ 
+ 120 C
+ 
+ 8 Pascal
