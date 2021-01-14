@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-TASK: dualpal
-LANG: C++                 
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -47,8 +42,6 @@ bool pal(){
 }
 
 int main(){
-	freopen("dualpal.in","r",stdin);
-	freopen("dualpal.out","w",stdout);
 	scanf("%d%d",&n,&start);
 	for(int i=start+1;cnt<n;i++){
 		int palcnt=0;
