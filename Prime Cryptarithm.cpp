@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-LANG: C++
-TASK: crypt1
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -26,8 +21,6 @@ int intlen(int num){
 } 
 
 int main(){
-//	freopen("crypt1.in","r",stdin);
-//	freopen("crypt1.out","w",stdout);
 	scanf("%d",&n);
 	for(int i=0;i<n;i++){
 		scanf("%d",&a[i]);
@@ -134,17 +127,6 @@ int main(){
 				continue;
 			}
 			cnt++;
-//			if(flag1==true&&flag2==true&&flag3==true&&flag4==true&&flag5==true){
-//				printf(" %d\n",i);
-//				printf("x %d\n",j);
-//				printf("------\n");
-//				printf(" %d\n",i*(j%10));
-//				printf("%d0\n",i*(j/10));
-//				printf("------\n");
-//				printf("%d\n",i*j);
-//				printf("\n");
-//				cnt++;
-//			}
 		}
 	}
 	printf("%d",cnt);
