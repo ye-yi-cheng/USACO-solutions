@@ -18,8 +18,6 @@ bool cmp(barn a,barn b){
 }
 
 int main(){
-	freopen("barn1.in","r",stdin);
-	freopen("barn1.out","w",stdout);
 	scanf("%d%d%d",&line,&n,&m);
 	for(int i=0;i<m;i++){
 		scanf("%d",&a[i]);
