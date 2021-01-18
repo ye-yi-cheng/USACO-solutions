@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-LANG: C++
-TASK: combo
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -12,8 +7,6 @@ int a,b,c,d,e,f;
 
 
 int main(){
-	freopen("combo.in","r",stdin);
-	freopen("combo.out","w",stdout);
 	scanf("%d",&n);
 	scanf("%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f);
 	for(int i=0;i<n;i++){
