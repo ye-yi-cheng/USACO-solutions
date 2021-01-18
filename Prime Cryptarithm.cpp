@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-LANG: C++
-TASK: crypt1
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -65,8 +60,6 @@ void func(int step){
 }
 
 int main(){
-	freopen("crypt1.in","r",stdin);
-	freopen("crypt1.out","w",stdout);
 	scanf("%d",&n);
 	for(int i=0;i<n;i++){
 		scanf("%d",&a[i]);
