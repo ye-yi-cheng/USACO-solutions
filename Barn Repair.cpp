@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-LANG: C++
-TASK: barn1
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
