@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1 
-LANG: C++
-TASK: skidesign
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -27,8 +22,6 @@ void calc(int available){
 }
 
 int main(){
-//	freopen("skidesign.in","r",stdin);
-//	freopen("skidesign.out","w",stdout);
 	scanf("%d",&n);
 	for(int i=0;i<n;i++){
 		scanf("%d",&a[i]);
