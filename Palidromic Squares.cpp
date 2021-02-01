@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-LANG: C++
-TASK: palsquare
-*/
 #include <bits/stdc++.h>
 using namespace std;
 int base;
@@ -44,8 +39,6 @@ bool pal() {
 } 
 
 int main() {
-	freopen("palsquare.in","r",stdin);
-	freopen("palsquare.out","w",stdout);
 	scanf("%d", &base);
 	for (int i = 1; i <= 300; i++) {
 		for (int j = 0; j < 100; j++){
