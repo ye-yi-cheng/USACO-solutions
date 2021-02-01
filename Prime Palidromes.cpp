@@ -5,7 +5,7 @@ int b;
 int solution[11];
 
 bool prime(int num){
-	for(int i=0;i*i<num;i++){
+	for(int i=2;i*i<=num;i++){
 		if(num%i==0){
 			return false;
 		}
@@ -14,51 +14,44 @@ bool prime(int num){
 }
 
 void search(int step,int end){
-//			printf("%d\n",end);
-//	if(step==(end+1)/2){
-//		for(int i=step;i<end;i++){
-//			solution[i]=solution[step-(i-step+1)];
-//		}
-//		for(int i=0;i<end;i++){
-//			printf("%d ",solution[i]);
-//		}
-//		printf("\n");
-		
-//		printf("%d\n",num);
-//		if(prime(num)==true&&num>=a&&num<=b){
-//			printf("%d\n",num);
-//		}
-//		printf("sad");
-//		return;
-//	}
 	if(end%2==0){
 		if(step==(end+1)/2){
 			for(int i=step;i<end;i++){
 				solution[i]=solution[step-(i-step+1)];
 			}
-	//		for(int i=0;i<end;
 			int num=0;
-			int pow=1;
+			int pow1=1;
 			for(int i=0;i<end;i++){
-				num+=solution[i]*pow;
-				pow*=10;
+				num+=solution[i]*pow1;
+				pow1*=10;
 			}
-			printf("%d\n",num);
+			int pow2=1;
+			for(int i=0;i<end-1;i++){
+				pow2*=10;
+			}
+			if(num>=pow2&&num>=a&&num<=b/**/&&prime(num)==true){
+				printf("%d\n",num);
+			}
 			return;
 		}
 	}else{
-		if(step==(end+1)/2-1){
+		if(step==(end+1)/2){
 			for(int i=step;i<end;i++){
-				solution[i]=solution[step-(i-step)];
+				solution[i]=solution[step-(i-step+2)];
 			}
-	//		for(int i=0;i<end;
 			int num=0;
-			int pow=1;
+			int pow1=1;
 			for(int i=0;i<end;i++){
-				num+=solution[i]*pow;
-				pow*=10;
+				num+=solution[i]*pow1;
+				pow1*=10;
 			}
-			printf("%d\n",num);
+			int pow2=1;
+			for(int i=0;i<end-1;i++){
+				pow2*=10;
+			}
+			if(num>=pow2&&num>=a&&num<=b/**/&&prime(num)==true){
+				printf("%d\n",num);
+			}
 			return;
 		}
 	}
@@ -70,8 +63,8 @@ void search(int step,int end){
 
 int main(){
 	scanf("%d%d",&a,&b);
-//	for(int i=1;i<=8;i++){
-		search(0,5);
-//	}
+	for(int i=1;i<=8;i++){
+		search(0,i);
+	}
 	return 0;
-} 
+}
