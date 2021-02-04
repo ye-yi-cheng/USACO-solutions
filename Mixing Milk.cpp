@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1 
-LANG: C++
-TASK: milk
-*/
 #include<bits/stdc++.h> 
 using namespace std;
 int n;
@@ -22,18 +17,13 @@ bool cmp(buy a,buy b){
 }
 
 int main(){
-	freopen("milk.in","r",stdin);
-	freopen("milk.out","w",stdout);
 	scanf("%d%d",&need,&n);
 	for(int i=0;i<n;i++){
 		scanf("%d%d",&a[i].price,&a[i].available); 
 	}
 	sort(a,a+n,cmp);
-//	for(int i=0;i<n;i++){
-//		printf("%d %d\n",a[i].price,a[i].available); 
-//	}
+
 	for(int i=0;i<n;i++){
-//		printf("milksum:%d moneysum:%d\n",milksum,moneysum);
 		milksum+=a[i].available;
 		moneysum+=a[i].price*a[i].available;
 		if(milksum>need){
