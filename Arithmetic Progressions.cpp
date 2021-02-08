@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1 
-LANG: C++
-TASK: ariprog
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n;
@@ -26,8 +21,6 @@ bool cmp(sequence a,sequence b){
 }
 
 int main(){
-	//	freopen("skidesign.in","r",stdin);
-	//	freopen("skidesign.out","w",stdout);
 	scanf("%d",&n);
 	scanf("%d",&m);
 	int tmpi1=0;
