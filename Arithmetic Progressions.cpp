@@ -38,10 +38,6 @@ int main(){
 	sort(doublesquare,doublesquare+tmpi1);
 	int uniquetmpi1=unique(doublesquare,doublesquare+tmpi1)-doublesquare;
 	for(int i=0;i<uniquetmpi1;i++){
-		printf("%d ",doublesquare[i]);
-	}
-	printf("\n");
-	for(int i=0;i<uniquetmpi1;i++){
 		for(int j=i+1;j<uniquetmpi1;j++){
 			bool flag=true;
 			int k=0;
