@@ -1,9 +1,3 @@
-/*
-ID: yeyiche1
-TASK: beads
-LANG: C++                 
-*/
-/* LANG can be C++11 or C++14 for those more recent releases */
 #include<bits/stdc++.h>
 using namespace std;
 int n=0;
@@ -101,13 +95,10 @@ int r(int i){
 }
 
 int main(){
-//	freopen("beads.in","r",std;
 	scanf("%d",&n);
 	scanf("%s",a);
 	for(int i=0;i<n;i++){
 		int beads=l(i)+r(i);
-//		printf("%d+%d=%din);
-//	freopen("beads.out","w",stdout)\n",l(i),r(i),beads);
 		if(beads>maxer){
 			maxer=beads;
 		}
@@ -118,4 +109,4 @@ int main(){
 		printf("%d\n",maxer);
 	}
 	return 0;
-} 
+}
