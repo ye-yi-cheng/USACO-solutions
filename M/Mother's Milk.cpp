@@ -1,8 +1,3 @@
-/*
-ID: yeyiche1
-TASK: milk3
-LANG: C++                 
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int totala;
@@ -54,8 +49,6 @@ void search(int a,int b,int c){
 }
 
 int main(){
-	freopen("milk3.in","r",stdin);
-	freopen("milk3.out","w",stdout);
 	scanf("%d%d%d",&totala,&totalb,&totalc);
 	search(0,0,totalc);
 	sort(result,result+resulti);
