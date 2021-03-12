@@ -30,7 +30,6 @@ int main(){
 		for(int j=0;j<=timemaxer;j++){
 			status[j]=false;
 		}
-//		printf("\n");
 		for(int j=0;j<n;j++){
 			if(j!=i){
 				for(int k=s[j];k<e[j];k++){
@@ -38,10 +37,6 @@ int main(){
 				}
 			}
 		}
-//		for(int k=0;k<timemaxer;k++){
-//			printf("%d",status[k]);
-//		}
-//		printf("\n");
 		for(int j=0;j<timemaxer;j++){
 			if(status[j]==true){
 				cnt++;
@@ -54,12 +49,3 @@ int main(){
 	printf("%d", maxer);
 	return 0;
 }
-//000001111
-//011100000
-//000111100
-
-//011111100
-//000111111
-
-//011101111
-
