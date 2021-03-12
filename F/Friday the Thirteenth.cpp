@@ -1,4 +1,4 @@
-/*
+F/*
 ID: yeyiche1
 TASK: friday
 LANG: C++                 
@@ -20,31 +20,15 @@ int main(){
 	for(int i=1;i<=n;i++){
 		if((1900+i-1)%400==0||((1900+i-1)%4==0&&(1900+i-1)%100!=0)){
 			daysinamonth[2]=29;
-//			printf("__________%dÄêÊÇÈòÄê__________\n",1900+i-1); 
+//			printf("__________%då¹´æ˜¯é—°å¹´__________\n",1900+i-1); 
 		} 
 		else daysinamonth[2]=28;
 		for(int j=1;j<=13;j++){
 			for(int m=1;m<=daysinamonth[j];m++){
-//				if(dateofweek<7)printf("%4dÄê %2dÔÂ %2dºÅÊÇÐÇÆÚ %d\n",i+1900-1,j,m,dateofweek);
-//				else printf("%4dÄê %2dÔÂ %2dºÅÊÇÐÇÆÚÈÕ\n",i+1900-1,j,m);
+//				if(dateofweek<7)printf("%4då¹´ %2dæœˆ %2då·æ˜¯æ˜ŸæœŸ %d\n",i+1900-1,j,m,dateofweek);
+//				else printf("%4då¹´ %2dæœˆ %2då·æ˜¯æ˜ŸæœŸæ—¥\n",i+1900-1,j,m);
 
 				if(m==13){
 					cnt[dateofweek]++;
 				}
 				dateofweek+=1;
-				if(dateofweek==8){
-					dateofweek=1;
-				}
-			}
-		}
-	}
-	printf("%d ",cnt[6]);
-	printf("%d ",cnt[7]);
-	printf("%d ",cnt[1]);
-	printf("%d ",cnt[2]);
-	printf("%d ",cnt[3]);
-	printf("%d ",cnt[4]);
-	printf("%d\n",cnt[5]);
-	return 0;
-}
-
