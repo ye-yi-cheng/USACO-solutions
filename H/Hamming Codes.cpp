@@ -59,7 +59,7 @@ void dfs(int step){
 			if(i!=n-1&&(i+1)%10!=0){
 				printf(" ");
 			}
-			if((i+1)%10==0&&i!=n-1){
+			if(i!=n-1&&(i+1)%10==0){
 				printf("\n");
 			}
 		}
