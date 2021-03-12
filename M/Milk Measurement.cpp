@@ -40,7 +40,7 @@ int main(){
 				maxer=production[j];
 				if(pictures[0]<=production[j]||pictures[1]<=production[j]||pictures[2]<=production[j]){
 					pictures[j]=true;
-					printf("%d�ϰ�\n",j);
+					printf("%dÉÏ°ñ\n",j);
 					cnt++;
 				}
 			}
@@ -54,4 +54,3 @@ int main(){
 	printf("%d\n",cnt);
 	return 0;
 }
-
