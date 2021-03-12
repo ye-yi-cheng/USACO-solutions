@@ -1,9 +1,3 @@
-
-/*
-ID: yeyiche1
-TASK: gift1
-LANG: C++                 
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int n,money,recivers;
@@ -13,8 +7,6 @@ map<string,int>accounts;
 
 
 int main(){
-//	freopen("gift1.in","r",stdin);
-//	freopen("gift1.out","w",stdout);
 	scanf("%d",&n);
 	for(int i=1;i<=n;i++){
 		cin>>names[i];
