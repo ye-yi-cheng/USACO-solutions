@@ -11,7 +11,6 @@ int main(){
 	scanf("%s",cowphabet);
 	scanf("%s",heard);
 	for(;true;){
-//		printf("%d\n",cnt);
 		for(int i=0;i<26;i++){
 			if(heard[cnt]==cowphabet[i]){
 				cnt++;
