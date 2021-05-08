@@ -3,8 +3,7 @@ using namespace std;
 int n;
 int milk[101];
 int namesnum[101];
-int totalmilk[101];
-//"Bessie","Elsie","Daisy","Gertie","Annabelle","Maggie","Henrietta"
+int totalmilk[101];"
 char names[101][20];
 
 
@@ -29,9 +28,7 @@ int main(){
 			namesnum[i]=6;
 		}
 		scanf("%d",&milk[i]);
-	} 
-	//names [Bessie,Elsie,Daisy,Gertie,Bessie]
-	//namesnum [0,1,2,3,0]
+	}
 	//milk [1,1,1,1,1]
 	for(int i=0;i<n;i++){
 		printf("%s ",names[i]);
@@ -54,11 +51,3 @@ int main(){
 	}
 	return 0;
 }
-/*
-5
-Bessie 1
-Elsie 1
-Daisy 1
-Gertie 1
-Bessie 1
-*/
