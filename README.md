@@ -1,1 +1,1 @@
-# USACO题解
+# USACO
