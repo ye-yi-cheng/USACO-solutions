@@ -10,4 +10,4 @@ license **MIT License**
 
 ### discription 
 
-Solutions for the usaco training and contests
+Solutions for the [usaco training](https://train.usaco.org/) and contests
