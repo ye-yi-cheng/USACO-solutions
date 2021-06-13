@@ -10,6 +10,6 @@
 
 ### 介绍 discription 
 
-c++ 的[usaco training](https://train.usaco.org/) 和比赛的题解
+c++的 [usaco training](https://train.usaco.org/) 和比赛的题解
 
 c++ language solutions for the [usaco training](https://train.usaco.org/) and contests
