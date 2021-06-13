@@ -1,13 +1,14 @@
 ## USACO
 
-### information
+### 信息 information
 
-website **none**
+网站 website **没有 none**
 
-tags **informatics-olympiad**
+标签 tags **informatics-olympiad**
 
-license **MIT License**
+许可证 license **MIT License**
 
-### discription 
+### 介绍 discription 
 
+[usaco training](https://train.usaco.org/) 和比赛的题解
 Solutions for the [usaco training](https://train.usaco.org/) and contests
