@@ -4,7 +4,7 @@
 
 网站 website **没有 none**
 
-标签 tags **informatics-olympiad** **cpp**
+标签 tags ```informatics-olympiad``` ```cpp```
 
 许可证 license **MIT License**
 
